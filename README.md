@@ -19,7 +19,7 @@ I am a Software and Frontend Developer <img src="https://media.giphy.com/media/W
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind,ts,express,firebase)](https://skillicons.dev)
 
 ---
 
