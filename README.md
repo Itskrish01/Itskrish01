@@ -23,6 +23,12 @@ I am a Software and Frontend Developer <img src="https://media.giphy.com/media/W
 
 ---
 
+## Programming languages 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itskrish01&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+
+
+
 ### :fire: My Stats :
 
 ## Github Status 🏆
