@@ -25,4 +25,11 @@ I am a Software and Frontend Developer <img src="https://media.giphy.com/media/W
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itskrish01&show_icons=true&theme=dark)
+## Github Status 🏆
+
+<img  src="https://github-stats-lemon.vercel.app/api?username=Itskrish01&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Itskrish01&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Itskrish01&theme=react-dark)
+<br>
