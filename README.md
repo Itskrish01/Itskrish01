@@ -1,41 +1,25 @@
-![](https://komarev.com/ghpvc/?username=itskrish01&color=green)
+# Krish Tasood
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+**Entrepreneur & Software Developer** · India · [krishtasood.in](https://krishtasood.in)
 
----
+Hi, I'm Krish Tasood (itskrish01). I'm an entrepreneur and software developer from India, building fast, carefully crafted products for the web and mobile with React, Next.js and Flutter.
 
-### :woman_technologist: About Me :
+- **Now:** working for myself as an entrepreneur.
+- **Before:** Software Developer at Mile9 Solutions, building healthcare software for web and mobile, and at Uiverse.io, an open-source UI library.
+- **Founded:** [Slashy.bio](https://slashy.bio), customisable digital profile cards.
 
-I am a Software and Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### Selected work
 
-- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+- [Notes AI](https://notes-ai.krishtasood.in/): a notes app with AI summaries, rephrasing and key points. Built with Next.js and Prisma.
+- [Linker Profile](https://linker-profile.krishtasood.in/): shareable link cards with profile pictures. Built with Remix and Prisma.
+- [Slashy.bio](https://slashy.bio): digital profile cards with email verification and live Discord presence. Built with Remix and MySQL.
 
-- :zap: In my free time, I do challenges from frontendmentor.io and solve coding problems.
+More case studies are on [krishtasood.in](https://krishtasood.in).
 
----
+### Tools I use
 
-### :hammer_and_wrench: Languages and Tools :
+React · Next.js · Remix · TypeScript · Flutter · Dart · Node.js · Prisma · Firebase · MongoDB · Tailwind CSS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,sass,nodejs,js,nextjs,tailwind,ts,express,firebase,bash,bootstrap,c,cpp,discordjs,docker,flutter,git,graphql,linux,mongodb,prisma,remix,supabase,vite,dart)](https://skillicons.dev)
+### Elsewhere
 
----
-
-## Programming languages 🌟
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itskrish01&theme=react)](https://github.com/Itskrish01/github-readme-stats)
-
-
-
-### :fire: My Stats :
-
-## Github Status 🏆
-
-<img  src="https://github-stats-lemon.vercel.app/api?username=Itskrish01&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Itskrish01&theme=react" width="48%" >
-<br>
-
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Itskrish01&theme=react-dark)
-<br>
+[Website](https://krishtasood.in) · [LinkedIn](https://www.linkedin.com/in/krish-t-138400217/) · [Email](mailto:krishtasood@gmail.com)
