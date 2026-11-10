@@ -22,4 +22,4 @@ More case studies are on [krishtasood.in](https://krishtasood.in).
 
 ### Elsewhere
 
-[Website](https://krishtasood.in) · [LinkedIn](https://www.linkedin.com/in/krish-t-138400217/) · [Email](mailto:krishtasood@gmail.com)
+[Website](https://krishtasood.in) · [LinkedIn](https://www.linkedin.com/in/krishtasood/) · [Email](mailto:krishtasood@gmail.com)
